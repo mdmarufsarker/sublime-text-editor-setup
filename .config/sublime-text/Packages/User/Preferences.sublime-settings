@@ -1,0 +1,22 @@
+{
+	/*"font_size": 18,*/
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_size": 18,
+	"font_face": "Operator Mono Lig",
+	"tab_size": 4,
+	"line_numbers": true,
+	"margin": 4,
+	"spell_check": true,
+	"auto_indent": true,
+	"detect_indentation": true,
+	"word_wrap": "auto",
+	"auto_close_tags": true,
+	"trim_trailing_white_space_on_save": true,
+	"save_on_focus_lost": true,
+	"tab_completion": true,
+	"auto_complete": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
